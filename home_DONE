@@ -1,0 +1,3 @@
+zypper rm --clean-deps plymouth
+zypper rm --clean-deps plymouth-branding-openSUSE 
+##kernel boot options - splash=verbose showopts elevator=noop NOHOTPLUG=yes
