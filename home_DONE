@@ -1,2 +1,2 @@
-pper rm --clean-deps plymouth plymouth-branding-openSUSE apparmor-abstractions apparmor-utils apparmor-docs
+pper rm --clean-depdddddddddddddds plymouth plymouth-branding-openSUSE apparmor-abstractions apparmor-utils apparmor-docs
 ##kernel boot options - splash=verbose showopts elevator=noop NOHOTPLUG=yes
