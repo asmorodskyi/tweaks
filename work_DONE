@@ -1,3 +1,4 @@
 zypper rm --clean-deps plymouth plymouth-branding-openSUSE apparmor-abstractions apparmor-utils apparmor-docs
 #kernel boot options - splash=verbose showopts elevator=noop NOHOTPLUG=yes
 zypper in tlp
+dsdsdsdafs
