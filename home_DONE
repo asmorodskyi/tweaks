@@ -1,2 +1,2 @@
-pper rm --clean-depdddddddddddddds plymouth plymouth-branding-openSUSE apparmor-abstractions apparmor-utils apparmor-docs
+zypper rm --clean-deps plymouth plymouth-branding-openSUSE apparmor-abstractions apparmor-utils apparmor-docs beforelight caribou cdda2wav cdrdao cdrecord fish gnuchess go1.9 nnn shotwell slenkins-testlib sound-juicer telepathy-mission-control tesseract-ocr uranium-firmware-lulzbot wicked  zenity
 ##kernel boot options - splash=verbose showopts elevator=noop NOHOTPLUG=yes
